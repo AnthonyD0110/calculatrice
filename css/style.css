@@ -1,0 +1,39 @@
+table {
+    background-color: black;
+    width: 380px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+input {
+    width: 80px;
+    height: 80px;
+    margin: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: solid 2px black;
+}
+
+#saisie {
+    width: 265px;
+    background-color: rgb(141, 139, 139);
+}
+
+.operation {
+    background-color: rgb(68, 167, 192);
+}
+
+.operation:hover {
+	background:rgb(6, 140, 145);
+}
+
+.chiffre {
+    background-color: rgb(192, 68, 68);
+}
+
+.chiffre:hover {
+	background:rgb(167, 8, 34);
+}
